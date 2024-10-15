@@ -7,6 +7,8 @@ import Hero from './Hero';
 import About from './About';
 import Skills from './Skills';
 import Services from './Services';
+import Roadmap from './Roadmap';
+import Selection from './Selection';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,6 +18,8 @@ root.render(
     <About />
     <Skills />
     <Services />
+    <Roadmap />
+    <Selection />
   </React.StrictMode>
 );
 
