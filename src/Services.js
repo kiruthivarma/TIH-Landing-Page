@@ -4,12 +4,12 @@ function Services() {
     return (
         <div>
             <section id="services" className="services section">
-                <div className="container section-title" data-aos="fade-up">
+                <div className="container section-title">
                     <h2>TIH Provides Training On</h2>
                 </div>
                 <div className="container">
                     <div className="row gy-4">
-                        <div className="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+                        <div className="col-xl-3 col-md-6 d-flex">
                             <div className="service-item position-relative">
                                 <div style={{ display: 'flex', alignItems: 'center' }}>
                                     <div className="icon" style={{ marginRight: '20px' }}>
@@ -22,7 +22,7 @@ function Services() {
                                 </strong>
                             </div>
                         </div>
-                        <div className="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+                        <div className="col-xl-3 col-md-6 d-flex">
                             <div className="service-item position-relative">
                                 <div style={{ display: 'flex', alignItems: 'center' }}>
                                     <div className="icon" style={{ marginRight: '20px' }}>
@@ -35,7 +35,7 @@ function Services() {
                                 </strong>
                             </div>
                         </div>
-                        <div className="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+                        <div className="col-xl-3 col-md-6 d-flex">
                             <div className="service-item position-relative">
                                 <div style={{ display: 'flex', alignItems: 'center' }}>
                                     <div className="icon" style={{ marginRight: '20px' }}>
@@ -48,7 +48,7 @@ function Services() {
                                 </strong>
                             </div>
                         </div>
-                        <div className="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+                        <div className="col-xl-3 col-md-6 d-flex">
                             <div className="service-item position-relative">
                                 <div style={{ display: 'flex', alignItems: 'center' }}>
                                     <div className="icon" style={{ marginRight: '20px' }}>

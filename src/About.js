@@ -2,19 +2,28 @@ function About() {
     return (
         <div>
             <section id="about" className="about section-bg">
-                <div className="container" data-aos="fade-up">
+                <div className="container">
                     <div className="section-title">
                         <h2>About</h2>
                     </div>
                     <div className="row">
                         <div className="col-lg-6" style={{ paddingTop: '20px' }}>
                             <h3>Find Out More <span>About Us</span></h3>
-                            <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>A hub for creativity and innovation, providing access to the latest technology and equipment to students.</p>
-                            <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>TIH will produce in-house projects for our college as well as consultancy projects.</p>
-                            <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>Project-Based Learning will be given to students, which will make them industry-ready.</p>
+                            <p className="mb-4 jus">
+                                <i className="fa fa-check text-success me-3"></i>
+                                A hub for creativity and innovation, providing access to the latest technology and equipment to students.
+                            </p>
+                            <p className="mb-4 jus">
+                                <i className="fa fa-check text-success me-3"></i>
+                                TIH will produce in-house projects for our college as well as consultancy projects.
+                            </p>
+                            <p className="mb-4 jus">
+                                <i className="fa fa-check text-success me-3"></i>
+                                Project-Based Learning will be given to students, which will make them industry-ready.
+                            </p>
                         </div>
                         <div className="col-lg-6">
-                            <div data-aos="fade-right" data-aos-delay="100">
+                            <div>
                                 <img src="assets/img/tihhall1.jpg" className="img-fluid" alt="TIH Hall" />
                             </div>
                         </div>
@@ -49,7 +58,10 @@ function About() {
                                                     </div>
                                                 </div>
                                                 <div className="col-md-6">
-                                                    <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>To provide a space to students to explore their passion, collaborate with their peers, and develop the skills they need to succeed in their chosen field. Bridging the gap between academia and industry, and facilitating the transfer of technology, knowledge, and resources.</p>
+                                                    <p className="mb-4 jus">
+                                                        <i className="fa fa-check text-success me-3"></i>
+                                                        To provide a space to students to explore their passion, collaborate with their peers, and develop the skills they need to succeed in their chosen field. Bridging the gap between academia and industry, and facilitating the transfer of technology, knowledge, and resources.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -61,7 +73,10 @@ function About() {
                                                     </div>
                                                 </div>
                                                 <div className="col-md-6">
-                                                    <p className="jus"><i className="fa fa-check text-success me-3"></i>To become a leading Technology Innovation Hub across the globe for students by fostering a culture of creativity, collaboration, and cutting-edge technological advancements.</p>
+                                                    <p className="jus">
+                                                        <i className="fa fa-check text-success me-3"></i>
+                                                        To become a leading Technology Innovation Hub across the globe for students by fostering a culture of creativity, collaboration, and cutting-edge technological advancements.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -73,9 +88,18 @@ function About() {
                                                     </div>
                                                 </div>
                                                 <div className="col-md-6">
-                                                    <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>To promote innovation and entrepreneurship among students by providing a nurturing environment that encourages ideation, experimentation, and problem-solving.</p>
-                                                    <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>To facilitate interdisciplinary research and foster cross-functional collaborations, encouraging the exchange of ideas and expertise among different engineering disciplines.</p>
-                                                    <p className="mb-4 jus"><i className="fa fa-check text-success me-3"></i>To continuously adapt and evolve in response to emerging technologies and industry trends, bridging the gap between academia and industry, and facilitating the transfer of technology, knowledge, and resources.</p>
+                                                    <p className="mb-4 jus">
+                                                        <i className="fa fa-check text-success me-3"></i>
+                                                        To promote innovation and entrepreneurship among students by providing a nurturing environment that encourages ideation, experimentation, and problem-solving.
+                                                    </p>
+                                                    <p className="mb-4 jus">
+                                                        <i className="fa fa-check text-success me-3"></i>
+                                                        To facilitate interdisciplinary research and foster cross-functional collaborations, encouraging the exchange of ideas and expertise among different engineering disciplines.
+                                                    </p>
+                                                    <p className="mb-4 jus">
+                                                        <i className="fa fa-check text-success me-3"></i>
+                                                        To continuously adapt and evolve in response to emerging technologies and industry trends, bridging the gap between academia and industry, and facilitating the transfer of technology, knowledge, and resources.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
