@@ -11,7 +11,7 @@ function Hero() {
                             </p>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-                            <img src="assets/img/group7.jpg" class="img-fluid animated" />
+                            <img src="assets/img/group7.jpg" class="img-fluid animated" alt=''/>
                         </div>
                     </div>
                 </div>
